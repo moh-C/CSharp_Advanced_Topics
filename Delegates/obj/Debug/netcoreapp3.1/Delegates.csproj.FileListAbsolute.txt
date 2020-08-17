@@ -1,0 +1,14 @@
+C:\Users\moham\Desktop\GitHub\CSharp_Advanced_Topics\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\moham\Desktop\GitHub\CSharp_Advanced_Topics\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll.config
+C:\Users\moham\Desktop\GitHub\CSharp_Advanced_Topics\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\moham\Desktop\GitHub\CSharp_Advanced_Topics\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\moham\Desktop\GitHub\CSharp_Advanced_Topics\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\moham\Desktop\GitHub\CSharp_Advanced_Topics\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\moham\Desktop\GitHub\CSharp_Advanced_Topics\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\moham\Desktop\GitHub\CSharp_Advanced_Topics\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Users\moham\Desktop\GitHub\CSharp_Advanced_Topics\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\GitHub\CSharp_Advanced_Topics\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\moham\Desktop\GitHub\CSharp_Advanced_Topics\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\GitHub\CSharp_Advanced_Topics\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\moham\Desktop\GitHub\CSharp_Advanced_Topics\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\moham\Desktop\GitHub\CSharp_Advanced_Topics\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
